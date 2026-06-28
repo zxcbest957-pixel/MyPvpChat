@@ -35,12 +35,12 @@ except ValueError:
     SEND_INTERVAL_MINUTES = 65
 
 AD_MESSAGE = (
-    "# ╭⚔️[MyPvP] CLAN ⚔️\n"
+    " ╭⚔️[MyPvP] CLAN ⚔️\n"
     " | ⚔️ Requirement: Gold+ or 750+ Wins (DM to check)\n"
     " | ⬆️ Clan Level: 5\n"
     " | 🍀 Upgrades: BP XP 5| Shop 2 lvl\n"
     " | 🌍 Global & Friendly Community\n"
-    "# ╰ 📥 DM <@1234510516249165907> to apply now!"
+    " ╰ 📥 DM <@1234510516249165907> to apply now!"
 )
 
 # Client initialization (Self-bot)
