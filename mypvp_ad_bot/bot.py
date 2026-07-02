@@ -36,7 +36,7 @@ except ValueError:
 
 AD_MESSAGE = (
     " ╭⚔️[MyPvP] CLAN ⚔️\n"
-    " | ⚔️ Requirement: Gold+ or 750+ Wins (DM to check)\n"
+    " | ⚔️ Requirement: {1k Gold|2k silver (DM to check)\n"
     " | ⬆️ Clan Level: 5\n"
     " | 🍀 Upgrades: BP XP 5| Shop 2 lvl\n"
     " | 🌍 Global & Friendly Community\n"
