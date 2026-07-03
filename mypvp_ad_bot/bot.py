@@ -40,7 +40,7 @@ AD_MESSAGE = (
     " | ⬆️ Clan Level: 5\n"
     " | 🍀 Upgrades: BP XP 5| Shop 2 lvl\n"
     " | 🌍 Global & Friendly Community\n"
-    " ╰ 📥 DM <@1234510516249165907> to apply now!"
+    " ╰ 📥 DM <@1522368164829331658> to apply now!"
 )
 
 # Client initialization (Self-bot)
