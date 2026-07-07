@@ -38,7 +38,6 @@ AD_MESSAGE = (
     "╭━━━【 MyPvP 】Clan — Maxed Out ━━━╮\n"
     "┃ ⚡ | Clan Lvl: 10 | BP: 50 | Shop: 4\n"
     "┃ 🏆 | Recruiting: Gold+ or 1500+ Wins\n"
-    "┃ 🤝 | Friendly & Competitive Environment\n"
     "┃ 🌍 |  Global community, active daily\n"
     "┃ 📥 | DM <@1522368164829331658> to apply!\n"
     "╰─────────────────────────────────╯"
