@@ -35,12 +35,12 @@ except ValueError:
     SEND_INTERVAL_MINUTES = 65
 
 AD_MESSAGE = (
-    "╭━━━【 MyPvP 】Clan — Maxed Out ━━━╮\n"
-    "┃ ⚡ | Clan Lvl: 10 | BP: 50 | Shop: 4\n"
-    "┃ 🏆 | Recruiting: Gold+ or 1500+ Wins\n"
-    "┃ 🌍 |  Global community, active daily\n"
-    "┃ 📥 | DM <@1522368164829331658> to apply!\n"
-    "╰─────────────────────────────────╯"
+    "‧₊˚✧ [ **MyPvP** ] ✧˚₊‧\n"
+    "✦ Level: 10 | BP: 50 | Shop: 4 [MAXED]\n"
+    "✦ Looking for: Active, Gold+ or 1000+ Wins\n"
+    "✦ Friendly community, daily growth\n"
+    "✦ We are looking for skilled warriors\n"
+    "📥 DM <@1522368164829331658> to Join!"
 )
 
 # Client initialization (Self-bot)
