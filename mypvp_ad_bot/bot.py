@@ -36,8 +36,8 @@ except ValueError:
 
 AD_MESSAGE = (
     "‧₊˚✧ [ **MyPvP** ] ✧˚₊‧\n"
-    "✦ Level: 10 | BP: 50 | Shop: 4 [MAXED]\n"
-    "✦ Looking for: Active, Gold+ or 1000+ Wins\n"
+    "✦ **Clan level 10[MAX]💫| BP: 50 [MAX]💫| Shop: 4 [MAX]💫**\n"
+    "✦ Looking for: Active, **Gold+ or 1000+ Wins**\n"
     "✦ Friendly community, daily growth\n"
     "✦ We are looking for skilled warriors\n"
     "📥 DM <@1522368164829331658> to Join!"
