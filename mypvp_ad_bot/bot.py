@@ -35,12 +35,12 @@ except ValueError:
     SEND_INTERVAL_MINUTES = 65
 
 AD_MESSAGE = (
-    "👑 **[KS] CLAN** 👑\n"
-    "**Tag:** **[KS] ( Kings Clan)**\n"
-    "**🛡️︱• BP XP 5| Shop 2 lvl**\n"
-    "**⚔️︱• Seeking Gold+ & 500+ Wins**\n"
-    "**🤝︱• Active & friendly players wanted!**\n"
-    "**👑︱• Join [KS] clan today! <@1234510516249165907>**"
+    "‧₊˚✧ [ **MyPvP** ] ✧˚₊‧\n"
+    "✦⚔️ **Clan level 10[MAX]💫| BP: 50 [MAX]💫| Shop: 4 [MAX]💫**\n"
+    "✦🔍 Looking for: Active, **Gold+ or 1000+ Wins**\n"
+    "✦🤝 Friendly community, daily growth\n"
+    "✦🔥 We are looking for skilled warriors\n"
+    "✦📬DM <@1522368164829331658> to Join!"
 )
 
 # Client initialization (Self-bot)
